@@ -1,0 +1,5 @@
+include:
+  - authentication-microservice/.gitlab-ci.yml
+  - activity-microservice/.gitlab-ci.yml
+  - user-microservice/.gitlab-ci.yml
+  - request-microservice/.gitlab-ci.yml
